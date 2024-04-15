@@ -42,3 +42,30 @@ h1{
 span{
     font-size:30px ;
 }
+@media (min-width:300px) and (max-width:780px) {
+    .body{
+       padding: 10%;
+    }
+    .outer{
+        height: 35%;
+        width:80%;
+        position: relative;
+        top:20% ;
+        left: 12.5%;
+        align-content: center;
+    }
+    h1{
+        font-size: 25px;
+
+    }
+    span{
+        font-size: 15px;
+    }
+    .inner{
+        width: 50%;
+        height: 50%;
+        top:78%;
+       left: 40%;
+    }
+ 
+}
