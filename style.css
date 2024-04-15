@@ -1,8 +1,5 @@
 body,html{
-/*     height: 100%; */
     margin: 0px;
-/* }
-.bg{ */
     background-image: url(./Image/img1.avif);
     background-repeat: no-repeat;  
     height: 100%;
@@ -47,7 +44,7 @@ span{
        padding: 10%;
     }
     .outer{
-        height: 35%;
+        height: 36%;
         width:80%;
         position: relative;
         top:20% ;
@@ -65,7 +62,7 @@ span{
         width: 50%;
         height: 50%;
         top:78%;
-       left: 40%;
+       left: 42%;
     }
  
 }
