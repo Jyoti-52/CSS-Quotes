@@ -39,7 +39,7 @@ h1{
 span{
     font-size:30px ;
 }
-@media (min-width:300px) and (max-width:780px) {
+@media (min-width:280px) and (max-width:800px) {
     .body{
        padding: 10%;
     }
@@ -62,7 +62,7 @@ span{
         width: 50%;
         height: 50%;
         top:78%;
-       left: 44%;
+       left: 47%;
     }
  
 }
